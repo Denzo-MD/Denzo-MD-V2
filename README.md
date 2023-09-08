@@ -33,25 +33,3 @@
 
 ---
 #     
-</p>
-
-<p align="center" >
-    <br>
-    __________________________
-    <br>
-</p>
-
-<h1 align="center">✅ Repository open </h1> 
- <h3 align="center">This repository is Depricated</h3> 
-<h1 align="center"> Deploy 𝑫𝑬𝑵𝒁𝑶 𝑴𝑫 𝑽2 From  <a href="https://github.com/Denzo-MD/Denzo-MD-V2" > Here. </a>  </h1>
-<p align="center">
-    <a aria-label="𝑫𝑬𝑵𝒁𝑶 𝑴𝑫 𝑽2" href="https://github.com/Denzo-MD/Denzo-MD-V2" target="_blank">
-    <img alt="click me" src="https://img.shields.io/badge/click me 𝑫𝑬𝑵𝒁𝑶 𝑴𝑫 𝑽2 here-8A2BE2" target="_blank" />
-    </a>
-    <a aria-label="𝑫𝑬𝑵𝒁𝑶 𝙐𝙘𝙝𝙞𝙬𝙖 " href="https://wa.me/244935469526" target="_blank">
-    <img alt="click me" src="https://img.shields.io/badge/Suhail's Whatsapp-77A2BE3" target="_blank" />
-    </a>
-  <a aria-label="𝑫𝑬𝑵𝒁𝑶 𝑴𝑫 𝑽2 is free to use" href="🙂🙂" target="_blank">
-    <img alt="𝑫𝑬𝑵𝒁𝑶 𝑴𝑫 𝑽2" src="✅✅✅" target="_blank" />
-  </a>
-</p>
